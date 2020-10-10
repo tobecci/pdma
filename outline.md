@@ -1,10 +1,10 @@
 # Course outline
 
-* How to access cpanel
-* How to install wordpress
-* accessing your admin dashboard
-* wordpress customization menu
-* wordpress theme (install and activation)
+* How to access cpanel  xxx
+* How to install wordpress xxx
+* accessing your admin dashboard  xxx
+* wordpress customization menu xxx
+* wordpress theme (install and activation) xxx
 * wordpress plugins (installation and activation)
 * settings
 * appearance menus
