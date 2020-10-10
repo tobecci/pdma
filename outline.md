@@ -5,8 +5,9 @@
 * accessing your admin dashboard  xxx
 * wordpress customization menu xxx
 * wordpress theme (install and activation) xxx
-* wordpress plugins (installation and activation)
-* settings
+* wordpress plugins (installation and activation) xxx
+* bulk actions xxx
+* settings xxx
 * appearance menus
 * Media library
 * Posts
